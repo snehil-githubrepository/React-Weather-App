@@ -5,4 +5,4 @@ A sleek and intuitive weather application that provides real-time weather foreca
 
 # For Mobile Devices 
 
-![weather application 2](https://github.com/snehil-githubrepository/React-Weather-App/assets/69778988/d75239d4-5b64-4ba1-aee9-3df3a0444d1f)
+![wa2](https://github.com/snehil-githubrepository/React-Weather-App/assets/69778988/0e64e563-7dee-4fef-a332-a863003690d9)
